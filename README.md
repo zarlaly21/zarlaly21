@@ -1,7 +1,7 @@
  # Nadia Noor | Computer Science Graduate
 
 ## About Me
-- 🎓 Recent BSc Computer Science Graduate
+- 🎓 Recent BS Computer Science Graduate
 - 🔬 Research Interests: face Recognition, Pattern recognition, HCI ML, Computer Vision, AI, Medical AI
 - 🇵🇰 Pakistani 
 - 📚 Learning Chinese
