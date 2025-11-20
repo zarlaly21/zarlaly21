@@ -1,10 +1,33 @@
- 👋 Hi, I’m @zarlaly21
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning Java script/ python 
-- 💞️ I’m looking to collaborate on websites development 
-- 📫 nadpak21@gmail.com
+ # Nadia Noor | Computer Science Graduate
 
-<!---
-zarlaly21/zarlaly21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🎓 Recent BSc Computer Science Graduate
+- 🔬 Research Interests: face Recognition, Pattern recognition, HCI ML, Computer Vision, AI, Medical AI
+- 🇵🇰 Pakistani 
+- 📚 Learning Chinese
+
+## Technical Skills
+- **Programming:** Python, Java, C++, SQL
+- **AI/ML:** OpenCV, Deep Learning, Scikit-learn
+- **Web:** Flask, HTML/CSS, JavaScript
+- **Tools:** Git, VS Code, Android Studio
+
+## Projects
+
+### 🎭 Real-Time Facial Expression Recognition
+A deep learning system that detects emotions from real-time video and recommends music.
+- **Tech:** Python, OpenCV, FER, Flask
+- [View Project →](#)
+
+### 🏫 College Management System
+Full-stack web application for academic administration.
+- **Tech:** MySQL, PHP, HTML/CSS, JavaScript
+- [View Project →](#)
+
+## Education
+- **BSc Computer Science** - University of Science and Technology, Havelian
+- **FSC Pre-Medical** - Post Graduate College for Women, Abbottabad
+
+## Contact
+- 📧 Email: napak21@gmail.com
+- 💼 LinkedIn: [Nadia Noor](www.linkedin.com/in/nadia-noor-931ba2294)
