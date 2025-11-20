@@ -25,7 +25,7 @@ Full-stack web application for academic administration.
 - [View Project →](#)
 
 ## Education
-- **BSc Computer Science** - University of Science and Technology, Havelian
+- **BS Computer Science** - University of Science and Technology, Havelian
 - **FSC Pre-Medical** - Post Graduate College for Women, Abbottabad
 
 ## Contact
